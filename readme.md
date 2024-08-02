@@ -1,11 +1,11 @@
 
 # Kanban Board PDF Generator
 
-This project provides a utility to generate a well-formatted PDF report from a Kanban board JSON data. The PDF includes details about lists and cards, such as card titles, descriptions, labels, and member names.
+This project provides a utility to generate a well-formatted PDF report from a Trello board JSON data. The PDF includes details about lists and cards, such as card titles, descriptions, labels, and member names.
 
 ## Features
 
-- **Load Kanban Board Data**: Read JSON data for a Kanban board from a file.
+- **Load Trello Board Data**: Read JSON data for a trello board from a file.
 - **Format and Generate PDF**: Create a PDF report that includes:
   - Kanban board name
   - List titles and descriptions
