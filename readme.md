@@ -1,6 +1,3 @@
-Here's a README file for your repository. It provides an overview of the project, installation instructions, usage, and details about the functionality:
-
----
 
 # Kanban Board PDF Generator
 
